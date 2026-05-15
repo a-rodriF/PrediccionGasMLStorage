@@ -115,7 +115,7 @@ Two model groups are generated:
 ---
 ## Diagrams
 ### 1. Information extraction for dataset
-<img width="352" height="232" alt="ObtencionDataset" src="https://github.com/user-attachments/assets/7bc997a2-260f-422c-b107-3969da173929" />
+<img width="450" height="300" alt="ObtencionDataset" src="https://github.com/user-attachments/assets/7bc997a2-260f-422c-b107-3969da173929" />
 
 ### 2. Data preprocessing
 <img width="500" height="280" alt="preprocesamiento" src="https://github.com/user-attachments/assets/87de02db-fc21-4d42-a50e-eb5c553f0b74" />
