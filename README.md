@@ -112,6 +112,16 @@ Two model groups are generated:
 
 - With storage information
 - Without storage information
+---
+## Diagrams
+### 1. Information extraction for dataset
+<img width="352" height="232" alt="ObtencionDataset" src="https://github.com/user-attachments/assets/7bc997a2-260f-422c-b107-3969da173929" />
+
+### 2. Data preprocessing
+<img width="500" height="280" alt="preprocesamiento" src="https://github.com/user-attachments/assets/87de02db-fc21-4d42-a50e-eb5c553f0b74" />
+
+### 3. Model Training
+<img width="591" height="240" alt="DiagrTrain" src="https://github.com/user-attachments/assets/c9506744-db9e-413b-970a-d9c6147acb0a" />
 
 ---
 
