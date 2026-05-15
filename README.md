@@ -1,5 +1,6 @@
 # Predicting gas consumption in Ethereum transactions using Machine Learning on storage-aware data.
-Final Degree Computer Sciences Proyect for Double Degree in Mathematics and Computer Science UCM
+*Final Degree Computer Sciences Proyect for Double Degree in Mathematics and Computer Science UCM*
+
 Ana Rodríguez de la Fuente
 
 Machine learning framework for Ethereum transaction gas prediction using ABI decoding, transaction metadata and smart contract storage analysis.
